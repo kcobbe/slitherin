@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+saved_models/opponent_*.pkl
+saved_models/highscore_model.pkl
